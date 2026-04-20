@@ -8,11 +8,8 @@
 
 <!-- Social Links (Make sure to replace the dummy # target links!) -->
 <p align="center">
-  <a href="#">
+  <a href="www.linkedin.com/in/anistina-dsouza-6b6679244">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
