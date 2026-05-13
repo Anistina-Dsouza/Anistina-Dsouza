@@ -52,17 +52,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anistina-Dsouza&theme=dracula&hide_border=true&background=0D1117" alt="Anistina's Contribution Streak" />
 </p>
 
----
-
-### 🎉 Fun Corner
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anistina-Dsouza&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
-- **Why do programmers prefer dark mode?** <abbr title="Because light attracts bugs! 🐛">Hover for a fun fact!</abbr>
-- **Random Dev Quote:** <abbr title='"First, solve the problem. Then, write the code." – John Johnson'>Hover here for inspiration!</abbr>
-- **Visitor Count:** <img src="https://visitor-badge.laobi.icu/badge?page_id=Anistina-Dsouza.Anistina-Dsouza" alt="Visitor Count" title="Thanks for visiting! Each view makes my day! 🎉" />
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="Blooming Lily" title="A beautiful lily blooming – just like my projects! 🌸" width="300" />
-</p>
